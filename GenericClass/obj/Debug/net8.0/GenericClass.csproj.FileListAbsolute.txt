@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\GenericClass\bin\Debug\net8.0\GenericClass.exe
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\GenericClass\bin\Debug\net8.0\GenericClass.deps.json
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\GenericClass\bin\Debug\net8.0\GenericClass.runtimeconfig.json
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\GenericClass\bin\Debug\net8.0\GenericClass.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\GenericClass\bin\Debug\net8.0\GenericClass.pdb
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\GenericClass\obj\Debug\net8.0\GenericClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\GenericClass\obj\Debug\net8.0\GenericClass.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\GenericClass\obj\Debug\net8.0\GenericClass.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\GenericClass\obj\Debug\net8.0\GenericClass.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\GenericClass\obj\Debug\net8.0\GenericClass.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\GenericClass\obj\Debug\net8.0\refint\GenericClass.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\GenericClass\obj\Debug\net8.0\GenericClass.pdb
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\GenericClass\obj\Debug\net8.0\GenericClass.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\GenericClass\obj\Debug\net8.0\ref\GenericClass.dll

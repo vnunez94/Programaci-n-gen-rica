@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\OneDrive\\Escritorio\\Dev\\INF512\\Programaci\u00F3n gen\u00E9rica\\GenericClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{885237CB-1F50-436B-8F4C-07FED80A9283}|GenericClass.csproj|c:\\users\\victo\\onedrive\\escritorio\\dev\\inf512\\programaci\u00F3n gen\u00E9rica\\genericclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885237CB-1F50-436B-8F4C-07FED80A9283}|GenericClass.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885237CB-1F50-436B-8F4C-07FED80A9283}|GenericClass.csproj|c:\\users\\victo\\onedrive\\escritorio\\dev\\inf512\\programaci\u00F3n gen\u00E9rica\\genericclass\\punto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885237CB-1F50-436B-8F4C-07FED80A9283}|GenericClass.csproj|solutionrelative:punto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885237CB-1F50-436B-8F4C-07FED80A9283}|GenericClass.csproj|c:\\users\\victo\\onedrive\\escritorio\\dev\\inf512\\programaci\u00F3n gen\u00E9rica\\genericclass\\par.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885237CB-1F50-436B-8F4C-07FED80A9283}|GenericClass.csproj|solutionrelative:par.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885237CB-1F50-436B-8F4C-07FED80A9283}|GenericClass.csproj|c:\\users\\victo\\onedrive\\escritorio\\dev\\inf512\\programaci\u00F3n gen\u00E9rica\\genericclass\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{885237CB-1F50-436B-8F4C-07FED80A9283}|GenericClass.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Par.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\Escritorio\\Dev\\INF512\\Programaci\u00F3n gen\u00E9rica\\GenericClass\\Par.cs",
+              "RelativeDocumentMoniker": "Par.cs",
+              "ToolTip": "C:\\Users\\victo\\OneDrive\\Escritorio\\Dev\\INF512\\Programaci\u00F3n gen\u00E9rica\\GenericClass\\Par.cs",
+              "RelativeToolTip": "Par.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:59:57.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Punto.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\Escritorio\\Dev\\INF512\\Programaci\u00F3n gen\u00E9rica\\GenericClass\\Punto.cs",
+              "RelativeDocumentMoniker": "Punto.cs",
+              "ToolTip": "C:\\Users\\victo\\OneDrive\\Escritorio\\Dev\\INF512\\Programaci\u00F3n gen\u00E9rica\\GenericClass\\Punto.cs",
+              "RelativeToolTip": "Punto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:56:42.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\Escritorio\\Dev\\INF512\\Programaci\u00F3n gen\u00E9rica\\GenericClass\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\victo\\OneDrive\\Escritorio\\Dev\\INF512\\Programaci\u00F3n gen\u00E9rica\\GenericClass\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-10-25T21:54:29.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\Escritorio\\Dev\\INF512\\Programaci\u00F3n gen\u00E9rica\\GenericClass\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\victo\\OneDrive\\Escritorio\\Dev\\INF512\\Programaci\u00F3n gen\u00E9rica\\GenericClass\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:52:27.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

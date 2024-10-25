@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\ProgramaciónGenérica1\obj\Debug\net8.0\ProgramaciónGenérica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\ProgramaciónGenérica1\obj\Debug\net8.0\ProgramaciónGenérica1.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\ProgramaciónGenérica1\obj\Debug\net8.0\ProgramaciónGenérica1.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\ProgramaciónGenérica1\obj\Debug\net8.0\ProgramaciónGenérica1.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\ProgramaciónGenérica1\bin\Debug\net8.0\ProgramaciónGenérica1.exe
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\ProgramaciónGenérica1\bin\Debug\net8.0\ProgramaciónGenérica1.deps.json
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\ProgramaciónGenérica1\bin\Debug\net8.0\ProgramaciónGenérica1.runtimeconfig.json
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\ProgramaciónGenérica1\bin\Debug\net8.0\ProgramaciónGenérica1.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\ProgramaciónGenérica1\bin\Debug\net8.0\ProgramaciónGenérica1.pdb
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\ProgramaciónGenérica1\obj\Debug\net8.0\ProgramaciónGenérica1.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\ProgramaciónGenérica1\obj\Debug\net8.0\refint\ProgramaciónGenérica1.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\ProgramaciónGenérica1\obj\Debug\net8.0\ProgramaciónGenérica1.pdb
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\ProgramaciónGenérica1\obj\Debug\net8.0\ProgramaciónGenérica1.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\ProgramaciónGenérica1\obj\Debug\net8.0\ref\ProgramaciónGenérica1.dll
