@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\GenericsMethods\obj\Debug\net8.0\GenericsMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\GenericsMethods\obj\Debug\net8.0\GenericsMethods.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\GenericsMethods\obj\Debug\net8.0\GenericsMethods.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\GenericsMethods\obj\Debug\net8.0\GenericsMethods.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\GenericsMethods\bin\Debug\net8.0\GenericsMethods.exe
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\GenericsMethods\bin\Debug\net8.0\GenericsMethods.deps.json
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\GenericsMethods\bin\Debug\net8.0\GenericsMethods.runtimeconfig.json
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\GenericsMethods\bin\Debug\net8.0\GenericsMethods.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\GenericsMethods\bin\Debug\net8.0\GenericsMethods.pdb
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\GenericsMethods\obj\Debug\net8.0\GenericsMethods.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\GenericsMethods\obj\Debug\net8.0\refint\GenericsMethods.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\GenericsMethods\obj\Debug\net8.0\GenericsMethods.pdb
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\GenericsMethods\obj\Debug\net8.0\GenericsMethods.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\GenericsMethods\obj\Debug\net8.0\ref\GenericsMethods.dll
