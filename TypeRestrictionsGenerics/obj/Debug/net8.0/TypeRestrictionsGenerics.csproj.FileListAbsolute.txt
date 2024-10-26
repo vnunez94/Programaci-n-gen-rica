@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\TypeRestrictionsGenerics\bin\Debug\net8.0\TypeRestrictionsGenerics.exe
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\TypeRestrictionsGenerics\bin\Debug\net8.0\TypeRestrictionsGenerics.deps.json
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\TypeRestrictionsGenerics\bin\Debug\net8.0\TypeRestrictionsGenerics.runtimeconfig.json
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\TypeRestrictionsGenerics\bin\Debug\net8.0\TypeRestrictionsGenerics.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\TypeRestrictionsGenerics\bin\Debug\net8.0\TypeRestrictionsGenerics.pdb
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\TypeRestrictionsGenerics\obj\Debug\net8.0\TypeRestrictionsGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\TypeRestrictionsGenerics\obj\Debug\net8.0\TypeRestrictionsGenerics.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\TypeRestrictionsGenerics\obj\Debug\net8.0\TypeRestrictionsGenerics.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\TypeRestrictionsGenerics\obj\Debug\net8.0\TypeRestrictionsGenerics.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\TypeRestrictionsGenerics\obj\Debug\net8.0\TypeRestrictionsGenerics.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\TypeRestrictionsGenerics\obj\Debug\net8.0\refint\TypeRestrictionsGenerics.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\TypeRestrictionsGenerics\obj\Debug\net8.0\TypeRestrictionsGenerics.pdb
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\TypeRestrictionsGenerics\obj\Debug\net8.0\TypeRestrictionsGenerics.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Programación genérica\TypeRestrictionsGenerics\obj\Debug\net8.0\ref\TypeRestrictionsGenerics.dll

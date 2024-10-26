@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XynsbzbsIjk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victo\\OneDrive\\Escritorio\\Dev\\INF512\\Programación genérica\\TypeRestrictionsGenerics\\TypeRestrictionsGenerics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.10\\microsoft.dotnet.ilcompiler.8.0.10.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.10\\microsoft.net.illink.tasks.8.0.10.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.10\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
